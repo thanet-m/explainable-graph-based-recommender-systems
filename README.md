@@ -1,4 +1,4 @@
-# Existing explainable graph-basedrecommender systems
+# Existing explainable graph-based recommender systems
 
 
 
@@ -9,7 +9,7 @@
 
 | Model    | Learning method | Explaining method | Explanation type | Implementaion |
 | -------- | --------------- | ----------------- | ---------------- | ----------------------------------------| 
-| SemAuto  | Embedding-based | Model-specific    | Node level       |  https://github.com/sisinflab/SEMAUTO     |
+| SemAuto [1] | Embedding-based | Model-specific    | Node level       |  https://github.com/sisinflab/SEMAUTO     |
 
 
 
