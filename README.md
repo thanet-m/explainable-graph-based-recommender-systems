@@ -4,15 +4,15 @@
 The following table presents existing explainable graph-based recommender systems, ordered by the proposed year.
 
 
-| Model    | Learning method | Explaining method | Explanation type | Implementation |
+| Model | Learning method | Explaining method | Explanation type | Implementation |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------------| 
-| SemAuto [1] | Embedding-based | Model-specific    | Node level       |  https://github.com/sisinflab/SEMAUTO     |
-| Ai et al.’s [2] | Embedding-based | Model-specific    | Path level       |  N/A |
-| RippleNet [3] | Hybrid |  Model-specific    | Path level       | https://github.com/hwwang55/RippleNet |
+| SemAuto [1] | Embedding-based | Model-specific | Node level | https://github.com/sisinflab/SEMAUTO |
+| Ai et al.’s [2] | Embedding-based | Model-specific | Path level | N/A |
+| RippleNet [3] | Hybrid |  Model-specific | Path level | https://github.com/hwwang55/RippleNet |
 | SEP [4] | Path-based | Model-agnostic | Path level | N/A |
 | KGAT [5] | Embedding-based | Model-specific | Path level | https://github.com/xiangwang1223/knowledge_graph_attention_network |
 | PGPR [6] | Embedding-based | Model-specific | Path level | https://github.com/orcax/PGPR |
-| LDSDMF [7] | Path-based | Model-specific  | Node level | N/A |
+| LDSDMF [7] | Path-based | Model-specific | Node level | N/A |
 
 References 
 
