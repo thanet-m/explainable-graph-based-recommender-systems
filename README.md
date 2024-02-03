@@ -1,4 +1,4 @@
-# Existing explainable graph-based recommender systems 
+# Existing Explainable Graph-Based Recommender Systems 
 
 
 The following table presents existing explainable graph-based recommender systems, ordered by the proposed year.
