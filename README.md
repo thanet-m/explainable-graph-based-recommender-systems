@@ -19,7 +19,7 @@ The following table presents existing explainable graph-based recommender system
 
 References 
 
-[1] Vito Bellini, Angelo Schiavone, Tommaso Di Noia, Azzurra Ragone, and Eugenio Di Sciascio. 2018. Knowledge-Aware Autoencoders for Explainable Recommender Systems. In Proceedings of the 3rd Workshop on Deep Learning for Recommender Systems. Association for Computing Machinery, New York, NY, USA, 24–31.
+[1] Vito Bellini, Angelo Schiavone, Tommaso Di Noia, Azzurra Ragone, and Eugenio Di Sciascio. 2018. Knowledge-Aware Autoencoders for Explainable Recommender Systems. In Proceedings of the 3rd Workshop on Deep Learning for Recommender Systems. Association for Computing Machinery, New York, NY, USA, 24–31. \\
 [2] Qingyao Ai, Vahid Azizi, Xu Chen, and Yongfeng Zhang. 2018. Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation. Algorithms 11, 9 (2018), 137.
 [3] Hongwei Wang, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, and Minyi Guo. 2018. RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management. 417–426.
 [4] Fan Yang, Ninghao Liu, Suhang Wang, and Xia Hu. 2018. Towards Interpretation of Recommender Systems with Sorted Explanation Paths. Proceedings - IEEE International Conference on Data Mining, ICDM (2018).
